@@ -18,7 +18,7 @@
 .item{
     background-color: rgb(216, 234, 241);
     margin: 20px 20px;
-    margin-left:;
+   
     height: 100px;
     width: 300px;
     border-radius: 10px;
@@ -168,7 +168,7 @@ align-items: center;
 font-size: 2rem;
 padding: 5px;
 position: absolute;
-right: 40rem;
+right: 30rem;
 
 }
 
@@ -182,7 +182,7 @@ align-items: center;
 font-size: 2rem;
 padding: 5px;
 position: relative;
-left: 10rem;
+left:10rem;
  
 }
 .tf{
